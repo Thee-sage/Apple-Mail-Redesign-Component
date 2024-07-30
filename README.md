@@ -104,6 +104,10 @@ To dive deeper into Next.js, check out the following resources:
 
 You can also explore [the Next.js GitHub repository](https://github.com/vercel/next.js/) and contribute to the project.
 
+
 ## Deployment
 
+You can view the live application at [Apple Mail Redesign](https://recreationaldesign1byabhi.vercel.app/).
+
 For deployment, the easiest way is to use [Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme). For detailed deployment instructions, refer to the [Next.js deployment documentation](https://nextjs.org/docs/deployment).
+
